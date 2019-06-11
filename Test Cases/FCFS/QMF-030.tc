@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that upon clicking Confirm button with mobile and nickname values correct, it will successfully add the appointment</description>
+   <name>QMF-030</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>514548d8-4128-4388-be59-1c0450c69273</testCaseGuid>
+   <variable>
+      <defaultValue>'Ace'</defaultValue>
+      <description></description>
+      <id>a7533de1-7d31-4778-8322-a84218f94a87</id>
+      <masked>false</masked>
+      <name>Nickname1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Aa'</defaultValue>
+      <description></description>
+      <id>e118a338-682a-4bd6-8219-52f89f559aec</id>
+      <masked>false</masked>
+      <name>Nickname2</name>
+   </variable>
+   <variable>
+      <defaultValue>'09123456789'</defaultValue>
+      <description></description>
+      <id>787d60ab-bd8e-481e-8376-94882ed83adc</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
